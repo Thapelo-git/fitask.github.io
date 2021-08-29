@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Thapelo-git/fitask.github.io.git/static/css/main.4a80035a.chunk.css",
+    "main.js": "/Thapelo-git/fitask.github.io.git/static/js/main.4a576f2b.chunk.js",
+    "main.js.map": "/Thapelo-git/fitask.github.io.git/static/js/main.4a576f2b.chunk.js.map",
+    "runtime-main.js": "/Thapelo-git/fitask.github.io.git/static/js/runtime-main.a03f0c0e.js",
+    "runtime-main.js.map": "/Thapelo-git/fitask.github.io.git/static/js/runtime-main.a03f0c0e.js.map",
+    "static/css/2.818011ed.chunk.css": "/Thapelo-git/fitask.github.io.git/static/css/2.818011ed.chunk.css",
+    "static/js/2.98e00e43.chunk.js": "/Thapelo-git/fitask.github.io.git/static/js/2.98e00e43.chunk.js",
+    "static/js/2.98e00e43.chunk.js.map": "/Thapelo-git/fitask.github.io.git/static/js/2.98e00e43.chunk.js.map",
+    "static/js/3.1af967f5.chunk.js": "/Thapelo-git/fitask.github.io.git/static/js/3.1af967f5.chunk.js",
+    "static/js/3.1af967f5.chunk.js.map": "/Thapelo-git/fitask.github.io.git/static/js/3.1af967f5.chunk.js.map",
+    "index.html": "/Thapelo-git/fitask.github.io.git/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Thapelo-git/fitask.github.io.git/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.4a80035a.chunk.css.map": "/Thapelo-git/fitask.github.io.git/static/css/main.4a80035a.chunk.css.map",
+    "static/js/2.98e00e43.chunk.js.LICENSE.txt": "/Thapelo-git/fitask.github.io.git/static/js/2.98e00e43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Thapelo-git/fitask.github.io.git/static/media/logo.6ce24c58.svg",
+    "static/media/Stylling.css": "/Thapelo-git/fitask.github.io.git/static/media/ocean3.2113dc2a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03f0c0e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.98e00e43.chunk.js",
+    "static/css/main.4a80035a.chunk.css",
+    "static/js/main.4a576f2b.chunk.js"
+  ]
+}
